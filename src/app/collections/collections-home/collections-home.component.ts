@@ -11,12 +11,12 @@ export class CollectionsHomeComponent implements OnInit {
     {
       name: 'Abhishek',
       age: 24,
-      job: 'Full Stack Developer'
+      job: 'MERN Stack Developer'
     },
     {
       name: 'Divisht',
       age: 25,
-      job: 'UI/UX Designer'
+      job: 'MEAN Stack Developer'
     },
     {
       name: 'Tushar',
